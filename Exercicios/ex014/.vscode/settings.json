@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editor.defaultBinaryEditor": "default",
+    "workbench.editor.revealIfOpen": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.sharedViewState": true,
+    "files.simpleDialog.enable": false,
+    "git.openRepositoryInParentFolders": "always",
+    "files.exclude": {
+        "**/.git": false
+    }
+}

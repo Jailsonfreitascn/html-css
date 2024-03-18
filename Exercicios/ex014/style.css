@@ -1,0 +1,6 @@
+@charset "UTF-8"
+
+body {background-color: rgb(51, 50, 50); text-align: center;}
+h1 {color: rgb(3, 3, 105); font-family: cursive; text-align: center;}
+h2 {color: rgba(148, 0, 211, 0.63); font-family: fantasy; text-align: center;}
+p  {text-align: center;}
